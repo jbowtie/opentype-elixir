@@ -10,5 +10,5 @@
   "mimerl": {:hex, :mimerl, "1.0.2", "993f9b0e084083405ed8252b99460c4f0563e41729ab42d9074fd5e52439be88", [:rebar3], []},
   "parse_trans": {:hex, :parse_trans, "3.2.0", "2adfa4daf80c14dc36f522cf190eb5c4ee3e28008fc6394397c16f62a26258c2", [:rebar3], [], "hexpm"},
   "ssl_verify_fun": {:hex, :ssl_verify_fun, "1.1.1", "28a4d65b7f59893bc2c7de786dec1e1555bd742d336043fe644ae956c3497fbe", [:make, :rebar], []},
-  "unicode_data": {:hex, :unicode_data, "0.6.0", "ab54218d82851a730f5ac4e52759e7e045add04de1f5e5ab25ce0c8cb0312450", [:mix], [], "hexpm"},
+  "unicode_data": {:hex, :unicode_data, "0.7.0", "10682f8d592ff1714b84aaa30bcd958e207a21b464f204eed5fc590904a6412b", [:mix], [], "hexpm"},
   "unicode_util_compat": {:hex, :unicode_util_compat, "0.3.1", "a1f612a7b512638634a603c8f401892afbf99b8ce93a45041f8aaca99cadb85e", [:rebar3], [], "hexpm"}}
