@@ -45,7 +45,7 @@ defmodule Opentype.Mixfile do
     [
       {:unicode_data, "~> 0.6.0"},
       {:excoveralls, "~> 0.8.1", only: :test},
-      {:ex_doc, "~> 0.18.1", only: :dev}
+      {:ex_doc, "~> 0.19.0", only: :dev}
     ]
   end
 
