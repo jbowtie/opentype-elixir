@@ -43,7 +43,7 @@ defmodule Opentype.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:unicode_data, "~> 0.6.0"},
+      {:unicode_data, "~> 0.8.0"},
       {:excoveralls, "~> 0.8.1", only: :test},
       {:ex_doc, "~> 0.18.1", only: :dev}
     ]
